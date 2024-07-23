@@ -1,2 +1,2 @@
 # Courses_year2
-The course of the first semester of the second year of Grade 2021 Information Security Major in Nankai University
+Courses for the First Semester of the Second Year in the Information Security Undergraduate Program at Nankai University
